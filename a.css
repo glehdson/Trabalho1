@@ -1,0 +1,63 @@
+P
+{
+  
+}
+
+.p
+{
+   color: rgb(219, 21, 21);
+   
+}
+
+.title
+{
+  
+  font-size: 56px;
+  
+ 
+  
+}
+
+li
+{
+    list-style-type: circle;
+    
+}
+
+.daniel
+{
+
+    font-size: 16px;
+  
+}    
+
+.vermelho
+{
+ 
+    color: red;
+    
+
+
+}
+body
+{
+    margin-left: 500px;
+    margin-right: 500px;
+
+
+}
+.border
+{
+    border-left: 3px  rgb(219, 21, 21) solid;
+    font-size: 28px;
+
+
+
+}
+.text{
+
+    margin-left: 60px;
+    margin-right: 60px;
+
+
+}
